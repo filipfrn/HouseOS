@@ -1,0 +1,2 @@
+- [RL Energy Grid project context](project_context.md) — MDP design, stack constraints, planned file structure, 2000-episode Q-learning setup
+- [User is a beginner RL learner](user_learner.md) — first RL project, S&B reference, prefers explained implementation choices
